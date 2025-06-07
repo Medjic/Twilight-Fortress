@@ -1,4 +1,4 @@
-"aa" = (/obj/structure/fluff/walldeco/chains,/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
+"aa" = (/obj/effect/decal/cleanable/blood,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "ah" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "ai" = (/obj/item/clothing/mask/rogue/izuma/menpo/steel/half,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "al" = (/obj/item/clothing/head/roguetown/helmet/ceramic/medium,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
@@ -23,10 +23,10 @@
 "bT" = (/obj/structure/flora/roguegrass,/mob/living/simple_animal/hostile/retaliate/rogue/mimic{faction = list("zizo", "undead")},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "bU" = (/obj/structure/guillotine,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "bW" = (/obj/item/roguebin/water,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"cc" = (/obj/item/clothing/cloak/raincloak/guardiancloak{color = #565656},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
+"cc" = (/obj/effect/decal/cleanable/blood/tracks,/obj/structure/lever/wall{dir = 8; redstone_id = "dungeon_finall_shtutter_main"; pixel_y = 15},/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "cd" = (/obj/effect/decal/cleanable/blood/puddle,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "cj" = (/obj/structure/trap/fire{alpha = 0},/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
-"cl" = (/obj/structure/spider/stickyweb,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"cl" = (/obj/structure/flora/roguegrass,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "co" = (/obj/structure/closet/crate/chest/lootbox,/obj/item/ammo_holder/quiver/arrows,/obj/item/ammo_holder/quiver/arrows,/obj/item/clothing/mask/rogue/izuma/menpo/steel,/turf/open/floor/rogue/cobble,/area/rogue/outdoors)
 "cp" = (/obj/structure/bookcase/random/archive,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "cq" = (/obj/structure/bed/rogue/shit,/obj/item/reagent_containers/glass/bottle/waterskin,/obj/item/reagent_containers/pill/pnkpill,/obj/item/key/custom{lockhash = 1488; name = "ржавый ключ"; icon_state = "mazekey"},/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
@@ -39,8 +39,8 @@
 "cI" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/obj/effect/decal/cleanable/sigil/zizo/S,/obj/item/clothing/head/roguetown/roguehood/xylix,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "cL" = (/obj/item/natural/bundle/stoneblock,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "cP" = (/obj/machinery/light/rogue/torchholder/c,/obj/item/trash/candle,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
-"cQ" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"cT" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
+"cQ" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"cT" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1588; max_integrity = 6000; locked = 1},/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "dc" = (/obj/structure/trap/damage{alpha = 0},/obj/structure/fluff/walldeco/xavo{name = "флаг белой розы"; pixel_y = 29},/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "de" = (/obj/item/rogueweapon/spear/yari/katakama,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "dh" = (/obj/item/natural/stone,/obj/item/natural/stoneblock,/obj/effect/decal/cleanable/debris/stony,/obj/effect/abstract/pollution,/obj/structure/trap/fire,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
@@ -51,7 +51,7 @@
 "dC" = (/obj/item/clothing/gloves/roguetown/fingerless/yugake,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "dD" = (/obj/structure/bookcase/random/fiction,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "dE" = (/obj/structure/spider/stickyweb,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"dF" = (/obj/item/bomb,/turf/open/water/sewer,/area/rogue/outdoors)
+"dF" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "dJ" = (/obj/item/reagent_containers/food/snacks/rogue/friedrat{pixel_y = -2},/obj/item/cooking/platter{pixel_y = -7; layer = 2},/turf/open/floor/rogue/tile,/area/rogue/outdoors)
 "dL" = (/obj/structure/closet/crate/coffin,/obj/item/dice,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "dN" = (/obj/item/rogueweapon/mace/cudgel,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -67,11 +67,12 @@
 "eD" = (/obj/effect/decal/cleanable/blood/tracks,/obj/item/ammo_casing/caseless/rogue/arrow/iron,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "eH" = (/obj/structure/bars/steel,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "eJ" = (/obj/structure/closet/crate/coffin,/obj/item/rogueweapon/sword/scimitar/messer/dao{max_integrity = 6},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
+"eM" = (/obj/structure/fluff/walldeco/chains,/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "eN" = (/obj/item/clothing/shoes/roguetown/armor/steel{color = #565656},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "eU" = (/obj/structure/pillory/double,/obj/effect/decal/cleanable/blood/footprints{dir = 8},/obj/effect/decal/cleanable/blood/gibs/down,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "eY" = (/obj/effect/decal/cleanable/blood/splatter,/obj/item/clothing/head/roguetown/soheicloth/storm,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "fa" = (/obj/structure/closet/crate/coffin,/obj/item/rogueweapon/whip/antique,/turf/open/floor/rogue/blocks/stonered,/area/rogue/outdoors)
-"fb" = (/obj/structure/rack/rogue,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
+"fb" = (/obj/structure/rack/rogue,/obj/item/key/custom{lockhash = 1588; icon_state = "toothkey"; name = "странный ключ"},/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
 "ff" = (/obj/item/rogueweapon/sword/long/tachi,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "fg" = (/obj/structure/closet/crate/chest/lootbox,/obj/item/reagent_containers/pill/pnkpill,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "fn" = (/obj/item/trash/pearcore,/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/open/floor/rogue/tile,/area/rogue/outdoors)
@@ -83,7 +84,7 @@
 "fP" = (/obj/effect/decal/cleanable/blood/footprints{dir = 1},/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "fQ" = (/obj/structure/table/roguetree/stump/log,/obj/structure/plasticflaps,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "fV" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1488; max_integrity = 6000},/obj/structure/trap/stun,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
-"fW" = (/obj/structure/flora/roguegrass,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
+"fW" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "fZ" = (/obj/item/natural/rock,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/obj/effect/abstract/pollution,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "gb" = (/turf/open/floor/rogue/blocks/paving/vert,/area/rogue/outdoors)
 "gd" = (/obj/item/roguecoin/copper/pile,/obj/structure/flora/roguegrass,/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
@@ -97,11 +98,11 @@
 "gJ" = (/obj/structure/bed/rogue/inn/hay,/obj/item/roguecoin/gold,/obj/item/rogueweapon/huntingknife/idagger/silver,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "gK" = (/obj/structure/fluff/walldeco/stone,/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "he" = (/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
-"hh" = (/obj/structure/noose/gallows,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"hh" = (/obj/structure/noose/gallows,/obj/structure/winch{gid = "dungeon_finall"; redstone_id = "dungeon_finall2"},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "hl" = (/obj/item/natural/rock/gold{pixel_y = -7; pixel_x = -13},/obj/effect/decal/cleanable/debris/stony,/turf/open/floor/rogue/tile/masonic/inverted,/area/rogue/outdoors)
 "hp" = (/obj/structure/fluff/clodpile,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "ht" = (/obj/structure/winch{gid = "dungeon_finall"; redstone_id = "dungeon_finall"},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"hu" = (/obj/structure/winch{gid = "dungeon_finall"; redstone_id = "dungeon_finall"},/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
+"hu" = (/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
 "hA" = (/obj/machinery/light/rogue/torchholder/c,/obj/item/clothing/wrists/roguetown/bracers/kote,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "hD" = (/obj/structure/spacevine/dendor,/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
 "hE" = (/obj/item/natural/stone,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
@@ -151,7 +152,7 @@
 "kO" = (/obj/item/smokebomb,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "kQ" = (/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "kR" = (/obj/structure/rack/rogue,/obj/item/clothing/mask/rogue/goggles,/turf/open/floor/rogue/tile/masonic/spiral,/area/rogue/outdoors)
-"kT" = (/obj/structure/fluff/clodpile,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
+"kT" = (/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "lc" = (/obj/effect/decal/cleanable/blood/splatter,/obj/effect/decal/remains/human,/turf/open/floor/rogue/blocks/newstone/alt,/area/rogue/outdoors)
 "lh" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1488; max_integrity = 6000; locked = 1},/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "li" = (/obj/effect/decal/cleanable/sigil/zizo,/obj/item/rogueweapon/huntingknife/idagger/silver,/obj/item/key/custom{lockhash = 1388; name = "тонкий ржавый ключ"; icon_state = "greenkey"},/obj/item/storage/keyring,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
@@ -161,7 +162,7 @@
 "lG" = (/obj/structure/closet/crate/coffin,/obj/item/reagent_containers/glass/bottle/rogue/healthpot,/obj/item/clothing/neck/roguetown/gorget/alt,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "lH" = (/obj/structure/fluff/statue/gargoyle/moss/candles,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "lI" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1488; max_integrity = 6000},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
-"lJ" = (/obj/effect/decal/cleanable/blood,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"lJ" = (/mob/living/carbon/human/species/skeleton/npc,/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "lV" = (/obj/structure/closet/crate/coffin,/obj/item/clothing/head/roguetown/helmet/heavy/bucket/soheidemon,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "mb" = (/obj/structure/fluff/clodpile,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "mc" = (/obj/item/ammo_casing/caseless/rogue/bolt,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -182,7 +183,7 @@
 "nb" = (/obj/effect/decal/cleanable/blood/puddle,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "nc" = (/obj/structure/trap/damage,/obj/structure/bars/tough,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "nd" = (/obj/structure/trap/damage,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
-"nf" = (/obj/structure/spider/stickyweb,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
+"nf" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "nl" = (/obj/structure/glowshroom,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "nm" = (/obj/structure/bed/rogue,/obj/item/bedsheet/rogue/wool,/obj/structure/bed/rogue{pixel_y = 20},/obj/item/clothing/suit/roguetown/shirt/undershirt/fancy,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "nt" = (/obj/effect/decal/cleanable/blood/splatter,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
@@ -196,7 +197,7 @@
 "nN" = (/obj/item/reagent_containers/food/snacks/smallrat/dead,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "nO" = (/obj/item/clothing/gloves/roguetown/plate{color = #565656},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "nQ" = (/obj/effect/decal/cleanable/blood/puddle,/obj/effect/decal/remains/human,/obj/machinery/light/rogue/wallfire/candle{pixel_x = 32; pixel_y = 0},/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
-"nU" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
+"nU" = (/obj/item/bomb,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "nV" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "nX" = (/turf/closed/wall/mineral/rogue/stone/moss{max_integrity = 18000; density = 0},/area/rogue/outdoors)
 "od" = (/obj/effect/decal/cleanable/blood,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
@@ -206,7 +207,7 @@
 "oq" = (/mob/living/simple_animal/hostile/retaliate/rogue/mimic{faction = list("zizo", "undead")},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "os" = (/obj/item/roguecoin/copper,/obj/item/natural/stoneblock,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "oz" = (/obj/structure/roguetent,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/stonered,/area/rogue/outdoors)
-"oA" = (/obj/item/bomb,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"oA" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "oB" = (/obj/structure/trap/stun{alpha = 10},/turf/open/water/sewer,/area/rogue/outdoors)
 "oD" = (/obj/machinery/light/rogue/oven/east,/turf/open/floor/rogue/tile,/area/rogue/outdoors)
 "oE" = (/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
@@ -264,7 +265,7 @@
 "sA" = (/obj/effect/decal/cleanable/blood,/obj/machinery/light/rogue/wallfire/candle{pixel_x = 32; pixel_y = 0},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "sC" = (/obj/machinery/light/rogue/campfire/densefire,/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
 "sJ" = (/obj/structure/closet/crate/coffin,/obj/item/rogueweapon/sword/sabre/piandao{max_integrity = 4},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
-"sM" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/grassyel,/area/rogue/outdoors)
+"sM" = (/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "sU" = (/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "sV" = (/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/obj/item/clothing/head/roguetown/helmet/skullcap/hachigane,/obj/effect/decal/remains/human,/obj/structure/closet/crate/chest/crafted,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "te" = (/obj/structure/rogue/trophy/deer,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
@@ -272,8 +273,8 @@
 "tj" = (/obj/item/clothing/head/roguetown/helmet/heavy/dragonslayer,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "tk" = (/obj/effect/decal/cleanable/blood,/obj/item/reagent_containers/syringe,/turf/open/floor/rogue/blocks/newstone/alt,/area/rogue/outdoors)
 "tl" = (/obj/item/roguecoin/copper,/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
-"tm" = (/obj/effect/decal/cleanable/blood/tracks,/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"tn" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
+"tm" = (/obj/item/natural/bundle/stoneblock,/obj/structure/flora/roguegrass,/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
+"tn" = (/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "tq" = (/obj/structure/trap/stun{alpha = 10},/turf/closed/wall/mineral/rogue/stone/moss{density = 0},/area/rogue/outdoors)
 "tu" = (/obj/item/rogueweapon/mace/steel/ararebo,/obj/structure/closet/crate/chest/crafted,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "tx" = (/obj/structure/closet/crate/coffin,/obj/item/reagent_containers/pill/pnkpill,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -286,7 +287,7 @@
 "tX" = (/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "uk" = (/obj/effect/decal/remains/human,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "um" = (/obj/machinery/light/rogue/firebowl/standing/blue,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
-"ut" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/brflowers,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/grass,/area/rogue/outdoors)
+"ut" = (/obj/effect/decal/cleanable/blood/gibs/old,/obj/item/clothing/mask/rogue/shepherd/shadowmask,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "uw" = (/obj/item/rogueweapon/huntingknife/idagger/tanto,/obj/item/rogueweapon/sword/short/wakizashi,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "uB" = (/turf/closed/wall/mineral/rogue/decostone/mossy/cand,/area/rogue/outdoors)
 "uC" = (/obj/item/book/rogue/secret/xylix,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
@@ -310,12 +311,13 @@
 "vB" = (/obj/item/natural/rock,/obj/effect/decal/cleanable/debris/stony,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/obj/structure/trap/fire,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "vE" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/tracks,/obj/item/clothing/mask/cigarette/pipe/westman,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "vF" = (/obj/structure/rack/rogue,/obj/item/clothing/neck/roguetown/chaincoif/iron{max_integrity = 3},/obj/item/clothing/neck/roguetown/chaincoif/iron{max_integrity = 3},/obj/item/clothing/neck/roguetown/chaincoif/iron{max_integrity = 3},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
-"vG" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/metal/barograte,/area/rogue/outdoors)
+"vG" = (/obj/structure/flora/roguegrass,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "wd" = (/obj/structure/fluff/clodpile,/turf/open/floor/rogue/grassyel,/area/rogue/outdoors)
 "we" = (/obj/structure/bookcase/random/fiction,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "wh" = (/turf/closed/wall/mineral/rogue/decostone/mossy,/area/rogue/outdoors)
 "wl" = (/obj/item/paper,/turf/open/floor/rogue/blocks/paving/vert,/area/rogue/outdoors)
 "wp" = (/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
+"ws" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/grassyel,/area/rogue/outdoors)
 "wt" = (/obj/structure/bookcase/random/reference,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "ww" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/brflowers,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "wx" = (/obj/structure/spider/stickyweb,/obj/structure/spider/stickyweb,/obj/structure/spider/stickyweb,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -333,7 +335,7 @@
 "xz" = (/mob/living/simple_animal/hostile/retaliate/rogue/mimic{faction = list("zizo", "undead")},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "xA" = (/obj/structure/flora/roguegrass,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "xD" = (/turf/closed/wall/mineral/rogue/decostone/mossy/long,/area/rogue/outdoors)
-"xH" = (/obj/effect/decal/cleanable/blood/puddle,/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
+"xH" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "xR" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "xT" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "xZ" = (/obj/structure/closet/crate/coffin,/obj/item/bodypart/l_arm/prosthetic/wood,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
@@ -359,16 +361,16 @@
 "zL" = (/obj/structure/fluff/wallclock/vampire/r,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
 "zN" = (/obj/item/natural/stoneblock,/obj/item/clothing/head/roguetown/helmet/heavy/blkknight,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "zP" = (/obj/item/clothing/gloves/roguetown/leather/abyssal/kabukimono,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"zQ" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"zQ" = (/mob/living/simple_animal/hostile/retaliate/rogue/minotaur/female{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "zR" = (/obj/item/sanctiflux,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "zS" = (/obj/item/storage/belt/rogue/pouch/coins/poor,/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
-"zT" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"zT" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "zU" = (/obj/structure/table/roguetree/stump/log,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "zV" = (/obj/structure/bookcase/random/reference,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "zX" = (/obj/item/roguecoin/copper,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "Ai" = (/obj/item/natural/cloth,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "An" = (/obj/structure/trap/fire{alpha = 0},/obj/item/rogueweapon/huntingknife/idagger/tanto,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"Ap" = (/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Ap" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "Ax" = (/obj/item/natural/rock/gold{pixel_y = -6; pixel_x = -4},/obj/effect/decal/cleanable/debris/stony,/turf/open/floor/rogue/tile/masonic/inverted,/area/rogue/outdoors)
 "AB" = (/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "AC" = (/obj/effect/decal/cleanable/blood/puddle,/obj/effect/decal/cleanable/blood/tracks,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
@@ -383,14 +385,14 @@
 "Bj" = (/obj/structure/plasticflaps,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Bl" = (/obj/item/clothing/mask/rogue/izuma/eyeband/black,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Bn" = (/obj/structure/trap/damage,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
-"Bq" = (/obj/item/ammo_casing/caseless/rogue/arrow/stone,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Bq" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/brflowers,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "Bt" = (/obj/structure/closet/crate/chest/lootbox,/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/obj/item/reagent_containers/food/snacks/fat/salo,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Bu" = (/obj/item/bedroll,/obj/structure/closet/crate/chest{lockid = "merc"},/obj/item/reagent_containers/pill/pnkpill,/turf/open/floor/rogue/tile,/area/rogue/outdoors)
 "Bw" = (/obj/machinery/light/rogue/wallfire/candle{pixel_x = 32; pixel_y = 0},/turf/open/floor/rogue/cobble,/area/rogue/outdoors)
 "By" = (/obj/structure/spider/stickyweb,/obj/item/rogueweapon/huntingknife/cleaver/combat,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "BF" = (/obj/effect/decal/cleanable/blood/puddle,/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "BH" = (/obj/item/clothing/suit/roguetown/armor/plate/blkknight,/obj/item/reagent_containers/glass/bottle/rogue/healthpot,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
-"BO" = (/obj/item/clothing/suit/roguetown/armor/brigandine,/obj/item/key/custom{lockhash = 1388; name = "тонкий ржавый ключ"; icon_state = "greenkey"},/obj/item/storage/keyring,/obj/item/key/custom{lockhash = 1488; name = "ржавый ключ"; icon_state = "mazekey"},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
+"BO" = (/obj/item/clothing/suit/roguetown/armor/brigandine{color = #565656},/obj/item/key/custom{lockhash = 1388; name = "тонкий ржавый ключ"; icon_state = "greenkey"},/obj/item/storage/keyring,/obj/item/key/custom{lockhash = 1488; name = "ржавый ключ"; icon_state = "mazekey"},/obj/structure/mannequin/male/female,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "BQ" = (/obj/item/rogueweapon/mace/cudgel/jitte,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "BV" = (/obj/item/clothing/shoes/roguetown/armor/steel/vampire,/obj/effect/decal/remains/human,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "BW" = (/obj/effect/decal/remains/human,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -424,13 +426,14 @@
 "Dt" = (/obj/item/clothing/mask/cigarette/rollie/nicotine,/obj/item/rogueweapon/sword/long/rider/messer,/obj/structure/flora/roguegrass,/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "DB" = (/obj/structure/closet/crate/coffin,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "DC" = (/obj/item/rope,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"DI" = (/obj/structure/fluff/clodpile,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "DK" = (/obj/item/reagent_containers/glass/cup/golden,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
-"DP" = (/obj/item/natural/bundle/stoneblock,/obj/structure/flora/roguegrass,/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
+"DP" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "DQ" = (/obj/item/natural/rock,/obj/effect/decal/cleanable/debris/stony,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "DT" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/brflowers,/obj/structure/spacevine,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "Eb" = (/obj/item/roguecoin/gold/pile,/turf/open/floor/rogue/tile/masonic/spiral,/area/rogue/outdoors)
 "Ee" = (/obj/item/clothing/suit/roguetown/armor/blacksteel/cuirass/hardened,/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
-"Eg" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/water/sewer,/area/rogue/outdoors)
+"Eg" = (/obj/structure/spider/stickyweb,/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Ei" = (/obj/effect/decal/cleanable/blood,/obj/item/ammo_casing/caseless/rogue/arrow/stone,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "En" = (/obj/structure/table/wood/crafted,/obj/item/storage/backpack/rogue/backpack/surgery,/obj/item/needle,/obj/item/reagent_containers/pill/pnkpill,/turf/open/floor/rogue/blocks/newstone/alt,/area/rogue/outdoors)
 "EE" = (/obj/item/book/rogue/tales3,/turf/open/floor/rogue/blocks/paving/vert,/area/rogue/outdoors)
@@ -443,7 +446,7 @@
 "Fr" = (/obj/machinery/light/rogue/hearth,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Fu" = (/obj/effect/decal/cleanable/blood,/obj/item/book_crafting_kit,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "Fx" = (/obj/item/rogueweapon/mace/warhammer,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"Fz" = (/obj/item/rogueweapon/firelance,/obj/item/ammo_casing/caseless/rogue/bolt/poison/fog,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Fz" = (/obj/structure/fluff/clodpile,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "FC" = (/obj/item/throwing_star/shuriken,/obj/structure/spacevine/dendor,/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
 "FH" = (/obj/structure/bars/tough,/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "FI" = (/obj/item/rogueweapon/katar,/obj/item/clothing/suit/roguetown/armor/hudesutu_quyaq,/obj/structure/closet/crate/chest/crafted,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -455,8 +458,9 @@
 "Gk" = (/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Gn" = (/obj/effect/decal/remains/human,/obj/structure/fluff/walldeco/chains,/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "Gu" = (/obj/structure/bookcase/random/religion,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
-"Gy" = (/obj/effect/decal/remains/human,/obj/structure/winch{gid = "dungeon_finall"; redstone_id = "dungeon_finall"},/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
+"Gy" = (/obj/item/clothing/cloak/raincloak/guardiancloak{color = #565656},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "GD" = (/obj/item/clothing/wrists/roguetown/splintarms,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"GH" = (/obj/item/paper/scroll/cargo{name = "старый свиток"; info = "Ох, мои ноги! Вам действительно ТАК НЕОБХОДИМО ставить этот чёртов рычаг именно сюда? Может всё же подвинуть его ближе к тем стальным стенам?"},/turf/open/floor/rogue/blocks/paving/vert,/area/rogue/outdoors)
 "GL" = (/obj/structure/closet/crate/coffin,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "GS" = (/obj/effect/decal/cleanable/debris/stony,/obj/structure/plasticflaps,/obj/effect/abstract/pollution,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "GU" = (/obj/effect/decal/cleanable/blood/tracks,/obj/machinery/light/rogue/firebowl/standing/blue,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
@@ -474,11 +478,12 @@
 "HG" = (/obj/item/rope/chain,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "HH" = (/obj/item/chair/stool/bar/rogue/crafted,/turf/open/floor/rogue/tile/masonic/inverted,/area/rogue/outdoors)
 "HP" = (/obj/effect/decal/cleanable/blood,/obj/item/bomb,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"HR" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1488; max_integrity = 6000; locked = 1},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"HR" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1588; max_integrity = 6000; locked = 1},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "HV" = (/obj/structure/fluff/statue/gargoyle/moss,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "HZ" = (/obj/structure/closet/crate/coffin,/obj/item/bodypart/l_arm/prosthetic/iron,/obj/item/clothing/neck/roguetown/chaincoif,/turf/open/floor/rogue/blocks/stonered,/area/rogue/outdoors)
 "Ih" = (/obj/item/ammo_casing/caseless/rogue/bolt/poison,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "In" = (/obj/effect/decal/cleanable/blood/puddle,/obj/structure/trap/fire{alpha = 0},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
+"Io" = (/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "Iu" = (/obj/structure/flora/roguegrass/thorn_bush,/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "Ix" = (/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "IB" = (/obj/effect/decal/cleanable/blood,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
@@ -519,12 +524,14 @@
 "KY" = (/mob/living/simple_animal/hostile/retaliate/rogue/minotaur/axe/female{faction = list("caves","hostile"); name = "Gerda"},/turf/open/floor/rogue/tile/masonic/inverted,/area/rogue/outdoors)
 "Ln" = (/obj/item/natural/stoneblock,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Lp" = (/obj/effect/decal/cleanable/blood/tracks,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"Lt" = (/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
+"Lt" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "Lv" = (/obj/item/natural/bundle/stoneblock,/obj/item/natural/bundle/stoneblock,/obj/structure/fluff/clodpile,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
+"LH" = (/obj/structure/mineral_door/wood/donjon{dir = 4; lockhash = 1488; max_integrity = 6000},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "LK" = (/obj/machinery/light/rogue/wallfire/candle{pixel_x = 32; pixel_y = 0},/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/water/sewer,/area/rogue/outdoors)
 "LQ" = (/obj/structure/toilet,/obj/structure/bars/grille,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "LS" = (/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
-"LY" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
+"LW" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/metal/barograte,/area/rogue/outdoors)
+"LY" = (/obj/structure/spider/stickyweb,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Md" = (/obj/item/natural/feather,/obj/item/paper/natural,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "Me" = (/obj/structure/trap/damage{alpha = 0},/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "Mg" = (/obj/structure/closet/crate/coffin,/obj/item/needle/pestra,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
@@ -544,16 +551,16 @@
 "Nh" = (/obj/effect/decal/cleanable/blood/puddle,/obj/structure/closet/burial_shroud,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Nl" = (/obj/structure/fluff/walldeco/xavo{name = "флаг белой розы"; pixel_y = 29},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "Nu" = (/turf/open/water/swamp/deep,/area/rogue/outdoors)
-"Ny" = (/obj/structure/fluff/clodpile,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Ny" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "Nz" = (/obj/effect/decal/cleanable/blood/tracks,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "NB" = (/obj/item/clothing/suit/roguetown/armor/chainmail/tatami,/obj/structure/closet/crate/chest/crafted,/obj/item/rogueweapon/sword/uchigatana/fire,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
 "ND" = (/obj/machinery/light/rogue/wallfire/candle{pixel_x = 32; pixel_y = 0},/obj/structure/fluff/clodpile,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "NP" = (/turf/open/floor/rogue/churchbrick,/area/rogue/outdoors)
 "NT" = (/obj/item/rogueweapon/shovel,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
-"NV" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"NV" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "NY" = (/obj/item/rogueweapon/sickle,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Oa" = (/obj/effect/decal/cleanable/blood,/obj/structure/fluff/walldeco/chains,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"Oi" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Oi" = (/obj/effect/decal/cleanable/blood/puddle,/obj/structure/trap/stun{alpha = 0},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "Oj" = (/obj/effect/decal/cleanable/blood/tracks,/obj/structure/trap/stun{alpha = 10},/obj/structure/mineral_door/bars{locked = 1; lockhash = 1388},/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "Oo" = (/obj/structure/rack/rogue,/obj/item/clothing/under/roguetown/chainlegs/iron{max_integrity = 32},/obj/item/clothing/under/roguetown/chainlegs/iron{max_integrity = 32},/obj/item/clothing/under/roguetown/chainlegs/iron{max_integrity = 32},/turf/open/floor/rogue/cobble,/area/rogue/outdoors)
 "Or" = (/obj/structure/rack/rogue,/obj/item/rogueweapon/sword/iron/short{max_integrity = 3},/obj/item/rogueweapon/sword/iron/short{max_integrity = 2},/obj/item/rogueweapon/sword/iron/short{max_integrity = 2},/obj/item/rogueweapon/sword/iron/short{max_integrity = 2},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
@@ -565,29 +572,29 @@
 "OR" = (/obj/structure/fluff/walldeco/xavo{name = "флаг белой розы"; pixel_y = 29},/turf/open/floor/rogue/tile/masonic/inverted,/area/rogue/outdoors)
 "OT" = (/obj/item/burial_shroud,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "OV" = (/obj/structure/closet/crate/coffin,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/stonered,/area/rogue/outdoors)
-"Pb" = (/obj/effect/decal/cleanable/blood/gibs/old,/obj/item/clothing/mask/rogue/shepherd/shadowmask,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
+"Pb" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/water/sewer,/area/rogue/outdoors)
 "Pk" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/obj/structure/handcart,/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Pr" = (/obj/structure/closet/crate/coffin,/obj/item/rogueweapon/sword/uchigatana{max_integrity = 3},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "PF" = (/obj/item/natural/stone,/obj/item/natural/stone,/turf/open/water/swamp/deep,/area/rogue/outdoors)
 "PH" = (/obj/item/paper,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "PP" = (/obj/item/rogueweapon/mace/steel,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
-"PQ" = (/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
+"PQ" = (/obj/effect/decal/cleanable/blood/tracks,/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "PR" = (/obj/effect/decal/cleanable/blood/gibs/body,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "PS" = (/obj/item/reagent_containers/syringe,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "PT" = (/obj/item/reagent_containers/pill/pnkpill,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"PW" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
+"PW" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Qb" = (/obj/item/roguecoin/copper,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Qd" = (/obj/structure/spider/stickyweb,/obj/effect/decal/cleanable/blood/splatter,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Qg" = (/obj/item/natural/rock,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "Qo" = (/obj/effect/decal/remains/human,/obj/item/clothing/suit/roguetown/armor/plate/scale,/obj/structure/closet/crate/chest/crafted,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Qt" = (/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "Qu" = (/obj/item/customlock,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
-"Qv" = (/mob/living/simple_animal/pet/cat/black,/obj/item/catbell,/turf/open/floor/rogue/tile/masonic/spiral,/area/rogue/outdoors)
+"Qv" = (/mob/living/simple_animal/pet/cat/black{STAINT = 20; STASTR = 2; STASPD = 14; STAPER = 15; STALUC = 20; STAEND = 3; STACON = 3; name = "Murry-Purry"; speak = list("Мау!","Эщс!","Муррр!","ХСССС"); desc = "Милая гладкошёрстная кошечка смоляного цвета с яркими жёлтыми глазами и вдумчивым взглядом. За её хрусталиками есть душа, определённо."},/obj/item/catbell,/turf/open/floor/rogue/tile/masonic/spiral,/area/rogue/outdoors)
 "Qw" = (/obj/structure/bars/tough,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "QB" = (/obj/item/corruptedheart,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "QC" = (/obj/item/ammo_casing/caseless/rogue/bolt/poison,/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
 "QD" = (/obj/structure/closet/crate/chest{lockid = "clinic"},/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/food/snacks/rogue/meat/salami,/obj/item/clothing/suit/roguetown/armor/chainmail/hauberk,/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
-"QJ" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
+"QJ" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "QL" = (/turf/closed/wall/mineral/rogue/pipe,/area/rogue/outdoors)
 "QT" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/brflowers,/obj/structure/flora/ausbushes/ywflowers,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
 "QZ" = (/obj/structure/spacevine/dendor,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
@@ -610,7 +617,7 @@
 "Sg" = (/turf/open/floor/rogue/dirt/road,/area/rogue/outdoors)
 "Sm" = (/obj/structure/closet/crate/coffin,/obj/item/clothing/gloves/roguetown/chain/kikko,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70; alpha = 25},/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "St" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/obj/item/rogueweapon/shield/tower/metal,/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
-"Sv" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/grass,/area/rogue/outdoors)
+"Sv" = (/mob/living/simple_animal/hostile/retaliate/rogue/bigrat{faction = list("undead")},/turf/open/floor/rogue/blocks/paving,/area/rogue/outdoors)
 "SD" = (/obj/structure/trap/damage,/obj/structure/mineral_door/bars{locked = 1; lockhash = 1388},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "SO" = (/obj/effect/decal/cleanable/blood/puddle,/obj/item/clothing/mask/rogue/izuma/menpo/steel/half/jade,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "SW" = (/obj/structure/spacevine/dendor,/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
@@ -622,6 +629,7 @@
 "TC" = (/obj/item/clothing/neck/roguetown/chaincoif/karuta_zukin/military,/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
 "TG" = (/obj/item/natural/stoneblock,/obj/effect/decal/cleanable/debris/stony,/obj/effect/abstract/pollution,/obj/structure/trap/fire,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "TH" = (/obj/structure/closet/crate/coffin,/obj/item/dildo/silver,/obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
+"TL" = (/obj/structure/bars/passage/shutter{redstone_id = "dungeon_finall_shtutter_main"},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "TM" = (/obj/item/natural/rock,/obj/effect/decal/cleanable/debris/stony,/obj/item/restraints/legcuffs/beartrap/armed/camouflage{armor_penetration = 70},/obj/effect/abstract/pollution,/turf/open/floor/rogue/metal,/area/rogue/outdoors)
 "TN" = (/obj/effect/decal/cleanable/debris/woody,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
 "TT" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/blocks/newstone/alt,/area/rogue/outdoors)
@@ -645,10 +653,10 @@
 "Va" = (/obj/structure/closet/crate/coffin,/obj/item/kitchen/ironfork/silver,/obj/item/kitchen/ironspoon/silver,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
 "Vb" = (/obj/item/clothing/head/roguetown/helmet/kettle,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Vc" = (/obj/structure/rack/rogue,/obj/item/rogueweapon/sword/iron/short/chipped{max_integrity = 32},/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
-"Vd" = (/obj/effect/decal/cleanable/blood/gibs/old,/obj/structure/mirror,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
+"Vd" = (/obj/effect/decal/cleanable/blood/gibs/old,/obj/structure/mirror,/obj/structure/mannequin/male/female,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "Vf" = (/obj/effect/decal/cleanable/blood/splatter,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "Vj" = (/obj/structure/rack/rogue,/obj/item/clothing/neck/roguetown/gorget/alt,/turf/open/floor/rogue/tile/masonic/single,/area/rogue/outdoors)
-"Vl" = (/obj/item/natural/whet,/obj/item/key/custom{lockhash = 1388; name = "тонкий ржавый ключ"; icon_state = "greenkey"},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
+"Vl" = (/obj/item/natural/whet,/obj/item/key/custom{lockhash = 1388; name = "тонкий ржавый ключ"; icon_state = "greenkey"},/obj/structure/mannequin/male,/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
 "Vo" = (/obj/structure/rack/rogue,/obj/item/rogueweapon/shield/wood{max_integrity = 5},/turf/open/floor/rogue/cobble,/area/rogue/outdoors)
 "Vp" = (/mob/living/simple_animal/hostile/retaliate/rogue/minotaur/female{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "Vu" = (/obj/structure/closet/crate/chest/steward/redpotion,/obj/item/organ/penis/tentacle,/obj/item/burial_shroud,/obj/item/burial_shroud,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/pill/pnkpill,/obj/item/reagent_containers/glass/bottle/rogue/greaterhealthpot,/obj/item/reagent_containers/glass/bottle/rogue/greaterhealthpot,/turf/open/floor/rogue/blocks/newstone/alt,/area/rogue/outdoors)
@@ -659,6 +667,7 @@
 "Wc" = (/obj/structure/trap/fire{alpha = 0},/obj/structure/mineral_door/bars{locked = 1; lockhash = 1488},/turf/open/floor/rogue/dirt/nrich,/area/rogue/outdoors)
 "We" = (/obj/machinery/light/rogue/wallfire/candle,/obj/item/clothing/wrists/roguetown/bracers/mountainstar,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Wh" = (/obj/effect/decal/cleanable/blood/footprints{dir = 4},/obj/effect/decal/cleanable/sigil/zizo/E,/obj/item/scrying/eye,/obj/item/key/custom{lockhash = 1488; name = "ржавый ключ"; icon_state = "mazekey"},/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
+"Wp" = (/obj/item/bomb,/turf/open/water/sewer,/area/rogue/outdoors)
 "Wt" = (/obj/structure/handcart,/obj/item/rogueweapon/sword/gladius,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Wv" = (/obj/structure/trap/fire{alpha = 5},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Ww" = (/obj/effect/decal/cleanable/blood,/obj/structure/spider/stickyweb,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
@@ -668,7 +677,7 @@
 "WL" = (/obj/structure/spider/stickyweb,/obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry,/turf/open/floor/rogue/cobble/mossy,/area/rogue/outdoors)
 "WQ" = (/obj/effect/decal/cleanable/blood/puddle,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
 "WZ" = (/obj/item/rope/chain,/turf/open/floor/rogue/blocks/green,/area/rogue/outdoors)
-"Xb" = (/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/blocks,/area/rogue/outdoors)
+"Xb" = (/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "Xg" = (/turf/closed/wall/mineral/rogue/stone/red_moss,/area/rogue/outdoors)
 "Xq" = (/obj/structure/closet/crate/coffin,/obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry,/turf/open/water/sewer,/area/rogue/outdoors)
 "Xv" = (/obj/structure/closet/crate/coffin,/obj/item/rogueweapon/greatsword,/turf/open/floor/rogue/blocks/stonered/tiny,/area/rogue/outdoors)
@@ -684,15 +693,15 @@
 "Yw" = (/obj/structure/mannequin/male/decorative,/turf/open/floor/rogue/ruinedwood/spiral,/area/rogue/outdoors)
 "YA" = (/obj/item/roguebin/water/gross,/obj/item/reagent_containers/food/snacks/grown/rogue/pipeweeddry,/turf/open/floor/rogue/tile,/area/rogue/outdoors)
 "YG" = (/obj/item/reagent_containers/glass/bottle/rogue/wine,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
-"YM" = (/mob/living/carbon/human/species/skeleton/npc,/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
+"YM" = (/obj/structure/spider/stickyweb,/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "YO" = (/obj/item/roguecoin/copper,/obj/item/roguecoin/copper,/obj/item/roguecoin/copper,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "YP" = (/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/rogue/hexstone,/area/rogue/outdoors)
 "YR" = (/obj/structure/soil,/turf/open/floor/rogue/dirt/road,/area/rogue/outdoors)
-"YS" = (/obj/structure/trap/stun{alpha = 10},/turf/open/floor/rogue/naturalstone,/area/rogue/outdoors)
+"YS" = (/obj/item/ammo_casing/caseless/rogue/arrow/stone,/mob/living/carbon/human/species/skeleton/npc,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "YX" = (/turf/open/lava/acid,/area/rogue/outdoors)
 "YY" = (/obj/structure/pillory/double,/obj/effect/decal/cleanable/blood/footprints{dir = 4},/obj/effect/decal/cleanable/blood/gibs/old,/obj/effect/decal/cleanable/blood/gibs/old,/turf/open/floor/rogue/concrete,/area/rogue/outdoors)
 "Zb" = (/obj/item/rogueweapon/mace/steel{color = #565656},/turf/open/floor/rogue/herringbone,/area/rogue/outdoors)
-"Zd" = (/mob/living/simple_animal/hostile/retaliate/rogue/minotaur/female{faction = list("undead")},/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
+"Zd" = (/obj/machinery/light/rogue/wallfire/candle{pixel_y = 0; pixel_x = -32},/mob/living/carbon/human/species/skeleton/npc/no_equipment,/turf/open/floor/rogue/greenstone,/area/rogue/outdoors)
 "Zi" = (/obj/structure/spider/stickyweb,/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "Zj" = (/mob/living/simple_animal/hostile/retaliate/rogue/spider{faction = list("undead")},/turf/closed/wall/mineral/rogue/stone/moss,/area/rogue/outdoors)
 "Zo" = (/obj/effect/decal/cleanable/blood/gibs/down,/turf/closed/wall/mineral/rogue/decostone/mossy,/area/rogue/outdoors)
@@ -712,66 +721,66 @@
 (1,1,1) = {"
 wCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwC
 wCLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSwC
-wCLSuMrtWcyroToToToqcEcThpkCukbgBuZKiEixnmXHKOcPpVKOhACVtFLSLSuJGkGkUZGkGkDcGkGkdxUZGkGkUZDcGkGkUZGkGkGkGknVGkDcGkGkGkJSdCLSLSwC
-wCLSutQTuBkTkChpkCkChpoTkCkCwpLSoDdJnCBaoNikKOikoNKOikoNoNLSLSGkdxGkGkdxUZGkGkUZGkGkdxdxGkGkUZGkdxGkGkGkGkGkGkGkGkGkGkGkGkLSLSwC
+wCLSuMrtWcyroToToToqcELthpkCukbgBuZKiEixnmXHKOcPpVKOhACVtFLSLSuJGkGkUZGkGkDcGkGkdxUZGkGkUZDcGkGkUZGkGkGkGknVGkDcGkGkGkJSdCLSLSwC
+wCLSBqQTuBFzkChpkCkChpoTkCkCwpLSoDdJnCBaoNikKOikoNKOikoNoNLSLSGkdxGkGkdxUZGkGkUZGkGkdxdxGkGkUZGkdxGkGkGkGkGkGkGkGkGkGkGkGkLSLSwC
 wCLSmFJGLSLSLSLSLSLSLSLSLSLSLSLSYAnCfnlhBniDmskQiDmskQiDtALSLSGkUZLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSGkGkLSLSwC
-wCLSwwRvLSDnGkQZKbgrydkCkCkCkCtXnCnCnCZMnKGcoNYnnKoNqwDmiYLSLSGkzTLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSABABABkHLSGkGkLSLSwC
+wCLSwwRvLSDnGkQZKbgrydkCkCkCkCtXnCnCnCZMnKGcoNYnnKoNqwDmiYLSLSGkQJLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSABABABkHLSGkGkLSLSwC
 wCLSuMDTOsGkGkQZQZkCkCkCkCkCkCLSLSaILSLSLSLSLSLSLSLSLSLSLSLSLSUZUZLSLSFIsiGkGkDcGkfxGkGkGkGkGkGkDcGkGkfxGkLSSmHZsalGLSpKGkLSLSwC
-wCLSQTsMLSSDncLSLSLSLSLSLSLSLSLSLSUZUZUZzTGkUZUZUZDoblDoDoblDoblDoLSLSZPGkGkGkGkGkGkGkGkGkGkGklJGkGkGkGkGkMLHnyTyTmnLSGkGkLSLSwC
-wCLSsgnlLSMEGkLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSUZUZLSLSpKGkLSLSLSLSLSLSLSLSLSLSLSLSLSLSnVGkLSdLctuOxZLSGkGkLSLSwC
-wCLSAHwdLSGkSbfxfxfxpOGklJGkGkGkUZGkGkGkGkGkDcUZGkGkGkGkGkWwGkUZGkLSLSFzGkLSzyiwfZeuYXhZdhDQYXxirsrfLSpKfxLSLSLSLSLSLSGkGkLSLSwC
-wCLSsgheLSGknVGkGkUZQtbSQtGkGkGkGkGkGkEiGkGkGkGkGkSbGkUZGkGkGkGkGkLSLSGkpOLSZFczYXUiYXTGYXzyYXEOYXSaBjGkGknVOTzPGkGkGkGkGkLSLSwC
-wCLSnFheLSGkfxLSLSLSLSUzQtHpHpHpHpHpZXZXHpHpHpHpHpHplILSLSLSLSLSLSLSLSoUoUnXBHYXYXfQYXxiYXvBYXTMYXqSxtGkGkGkGkGkGkGkGkqJofLSLSwC
+wCLSQTwsLSSDncLSLSLSLSLSLSLSLSLSLSUZUZUZQJGkUZUZUZDoblDoDoblDoblDoLSLSZPGkGkGkGkGkGkGkGkGkGkGkaaGkGkGkGkGkMLHnyTyTmnLSGkGkLSLSwC
+wCLSsgnlLSMEGkLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSUZUZLSLSpKnULSLSLSLSLSLSLSLSLSLSLSLSLSLSnVGkLSdLctuOxZLSGkGkLSLSwC
+wCLSAHwdLSGkSbfxfxfxpOGkaaGkGkGkUZGkGkGkGkGkDcUZGkGkGkGkGkWwGkUZGkLSLSpOGkLSzyiwfZeuYXhZdhDQYXxirsrfLSpKfxLSLSLSLSLSLSGkGkLSLSwC
+wCLSsgheLSGknVGkGkUZQtbSQtGkGkGkGkGkGkEiGkGkGkGkGkSbGkUZGkGkGkGkGkLSLSnUpOLSZFczYXUiYXTGYXzyYXEOYXSaBjGkGknVOTzPGkGkGkGkGkLSLSwC
+wCLSnFheLSGkfxLSLSLSLSUzQtHpHpHpHpHpZXZXHpHpHpHpHpHpLHLSLSLSLSLSLSLSLSoUoUnXBHYXYXfQYXxiYXvBYXTMYXqSxtGkGkGkGkGkGkGkGkqJofLSLSwC
 wCLSCsmzLSUZGkLSKAKALSCdQtHpHFJXREORnxcDcDtelphVHpHpkCkCkCkCwpoUYXYXYXYXYXLSzNZyqqsmGSeuYXQgieuGYXzULSfxfxLSLSyyLSLSLSGknVLSLSwC
 wCLShenlLSMEGkLSKWKWLSUzQtHpsynxKYnxnxpRcDcDTNRuHpVYxTLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSGkGkLSXvDBlVRPLSGkGkLSLSwC
-wCLSheheLSGkApLSnXLSLSUzJmHpapHHnxnxnxcDcDDKcDzLHpLSkCLSEbaWxqxqLSfDNPNPfDLSLSCMVdCMLSLSfDVSNPfDLSGkGknVGkLSKgyTozmnLSGkGkLSLSwC
+wCLSheheLSGktnLSnXLSLSUzJmHpapHHnxnxnxcDcDDKcDzLHpLSkCLSEbaWxqxqLSfDNPNPfDLSLSCMVdCMLSLSfDVSNPfDLSGkGknVGkLSKgyTozmnLSGkGkLSLSwC
 wCLSGkegLSGkfxGkxuxuLSUzQtHpmTXEnxnxnxgkcDkicDgkHpHpkCfVEbEbQvoSLSFHFHDsFHLSgKYPNfYPgKLSFHFHDsFHLSGkGkGkGkLSDBryjofLLSpKGkLSLSwC
-wCLSGkkDLSxbGkGkApGkLSmfQtHpAxhlmDkBHcpQfbVjqfkxVYHpkCLSoSkRxqxqLSMdebMlumHVMlFampFaMlHVumvoMlMlLSLSLSGkGkLSABaUaUABLSGkGkLSLSwC
-wCLSnNkDLSLSLSLScQGkLSUzQtHpHpHpHpHpHpHpHpHpHpHpHpHpLSLSLSLSLSLSLSvnoWRZahFXccUbhTYmPblnqTqNeNMlFHVSLSGkGkLSaSooVavhLSGkGkLSLSwC
-wCLSGkkDLSQDxbaIGkGkLSUzQtGkWeGkGkGkGkGkGkSbGkApGkOHGkGkCwLSvxBVLSffVlMDFXeUHfJEliWhdvYYnOBOcHMlFHaaLSpKGkLSLSLSLSLSLSGkGkLSLSwC
-wCLSGkkDLSoExbaIGkGkLSUzJoGkGkGkGknVGkGkGkGkGkGkGkGkGkGkGkLSApGkLSuwaiFXcdahQBqzcImPFXyoZbOAiBYoFHNPLSGknVGkGkGkfJGkGkGkGkLSLSwC
-wCLSGkkDOsLSLSLSGkfxLSLSLSLStxLSLSLSLSLSLSLSLSpzLSLSLSGkApLSGkGkLSCxFOMlFXFXcdFXfPFXFXcdahMlMlMlLSLSLSGkfJGkGkGkGkGkfxjNGkLSLSwC
+wCLSGkkDLSxbGkGktnGkLSmfQtHpAxhlmDkBHcpQfbVjqfkxVYHpkCLSoSkRxqxqLSMdebMlumHVMlFampFaMlHVumvoMlMlLSLSLSGkGkLSABaUaUABLSGkGkLSLSwC
+wCLSnNkDLSLSLSLSZdGkLSUzQtHpHpHpHpHpHpHpHpHpHpHpHpHpaILSLSLSLSLSLSvnoWRZahFXGyUbhTYmutlnqTqNeNMlFHVSLSGkGkLSaSooVavhLSGkGkLSLSwC
+wCLSGkkDLSQDxbaIGkGkLSUzQtGkWeGkGkGkGkGkGkSbGktnGkOHGkGkCwLSvxBVLSffVlMDFXeUHfJEliWhdvYYnOBOcHMlFHeMLSpKGkLSLSLSLSLSLSGkGkLSLSwC
+wCLSGkkDLSoExbaIGkGkLSUzJoGkGkGkGknVGkGkGkGkGkGkGkGkGkGkGkLStnGkLSuwaiFXcdahQBqzcImPFXyoZbOAiBYoFHNPLSGknVGkGkGkfJGkGkGkGkLSLSwC
+wCLSGkkDOsLSLSLSGkfxLSLSLSLStxLSLSLSLSLSLSLSLSpzLSLSLSGktnLSGkGkLSCxFOMlFXFXcdFXfPFXFXcdahMlMlMlLSLSLSGkfJGkGkGkGkGkfxjNGkLSLSwC
 wCLSnVkDLSTwGZaIGkDCLSLSFrLSLSLSUzUzUzUzLStxLSLSLStfUFGkGkLSGkGkLSFHFHKFFXwhwhPRFbPRwhwhFXMlFHFHLSGkGkGkGkfJGkGkGkGkfxGkGkLSLSwC
-wCLSGkkDKkaILSLSGkGkLSGDGkSbOHQtQtPWQtQtQtGkGkGkOHGkGkGkNYLSpKNDLSNPFHACFXwhwhFXZoFXwhwhFXMlFHVSLSGknVGkGkGkGkfxfJnVGkGkGkLSLSwC
-wCLSGkkDLSwpgJaIGkGkLSGkGkGkGkGkPSGkGktfGkGkSbOiGkGkGkGkGkLSGkGkLSGnFHACFXcjdcnDiInDdccjFXMlFHfDLSGkGkfxGkLSLSyyLSLSLSGkGkLSLSwC
+wCLSGkkDKkaILSLSGkGkLSGDGkSbOHQtQtNVQtQtQtGkGkGkOHGkGkGkNYLSpKNDLSNPFHACFXwhwhFXZoFXwhwhFXMlFHVSLSGknVGkGkGkGkfxfJnVGkGkGkLSLSwC
+wCLSGkkDLSwpgJaIGkGkLSGkGkGkGkGkPSGkGktfGkGkSbxHGkGkGkGkGkLSGkGkLSGnFHACFXcjdcnDiInDdccjFXMlFHfDLSGkGkfxGkLSLSyyLSLSLSGkGkLSLSwC
 wCLSDnkDLSwpwpLSIhGkLSGknVLSLSaIaILSLSLSLSLSLSLSLSLSLSaKQwLSmbGkLSNPFHGUFXMeMeiIKMiIMeMeFXumFHEeLSaILSnVGkLSjiGLpZTjLSGkGkLSLSwC
-wCLSGktmLSkCxbLSGkGkLSGkGkLSLStfBlLSuUAnLSxzcouZXFpmLSSbGkLSGkBqLSLSLSKFFXwhwhnDInnDwhwhFXMlLSLSLSLSLSmcGkLSKgyTozKgLSGkGkLSLSwC
-wCLSGkkDLSkCkCLSpKGkLSdBGkLSLSAKGkLSGkGkLSOuGkGkGkJILSGkofLSGkGkaIYXLSKFFXwhwhwhMewhwhwhFXMlLSEnsqVuLSGkGkLSewfaOVzvLSpKGkLSLSwC
-wCLSGkkDLSxbxbLSGkUZLSxuGkLSLSGkUZLSCouULSVoGkGkGkMULSGkGkLSIhGkaIYXLSKFFXMedcnDInnDdcMeFXMlLSktTTtkLSGkGkLSABaUaUABLSGkGkLSLSwC
-wCLSGkkDLSxbkCLSGkGkLSxuGkLSLSrTUZLSGkGkLSVcGkGkGkBwLSGkGkLSGkgDLSoULSKFFXMexaiInDiIxaMeFXMlLSeclcAMLSpKGkLSVFeJMguQLSnVGkLSLSwC
-wCLSMEkDLSLSLSLSGkfxLSGkofLSLSGkUZLSApNyLSOrGkGkZCtXLSGkGkLSLviiLSGkLSKFMGLSLSIxBFIxLSLSMGMlLSHgHgRqLSfxGkLSLSLSLSLSLSGkGkLSLSwC
-wCLSGkkDUKGkGkLSUZGkLSGkGkLSLSGkUhLSmbhRLSTsGkGkGkMULSGkGkLSDPJQLSGkLSefFXLSLSIxBFIxLSLSFXFXLSGkGkNhLSGkGkfxGkGkGkGkGkGkofLSLSwC
+wCLSGkPQLSkCxbLSGkGkLSGkGkLSLStfBlLSuUAnLSxzcouZXFpmLSSbGkLSGkYSLSLSLSKFFXwhwhnDInnDwhwhFXMlLSLSLSLSLSmcGkLSKgyTozKgLSGkGkLSLSwC
+wCLSGkkDLSkCkCLSpKGkLSdBGkLSLSAKGkLSGkGkLSOuGkGkGkJILSGkofLSGkGkLSGkcTKFFXwhwhwhMewhwhwhFXMlLSEnsqVuLSGkGkLSewfaOVzvLSpKGkLSLSwC
+wCLSGkkDLSxbxbLSGkUZLSxuGkLSLSGkUZLSCouULSVoGkGkGkMULSGkGkLSIhGkLSGkLSKFFXMedcnDInnDdcMeFXMlLSktTTtkLSGkGkLSABaUaUABLSGkGkLSLSwC
+wCLSGkkDLSxbkCLSGkGkLSxuGkLSLSrTUZLSGkGkLSVcGkGkGkBwLSGkGkLSGkgDLSoULSccFXMexaiInDiIxaMeFXMlLSeclcAMLSpKGkLSVFeJMguQLSnVGkLSLSwC
+wCLSMEkDLSLSLSLSGkfxLSGkofLSLSGkUZLStnDILSOrGkGkZCtXLSGkGkLSLviiLSGkLSKFMGLSLSIxBFIxLSLSMGMlLSHgHgRqLSfxGkLSLSLSLSLSLSGkGkLSLSwC
+wCLSGkkDUKGkGkLSUZGkLSGkGkLSLSGkUhLSmbhRLSTsGkGkGkMULSGkGkLStmJQLSGkLSefFXLSLSIxBFIxLSLSFXFXLSGkGkNhLSGkGkfxGkGkGkGkGkGkofLSLSwC
 wCLSnVkDLSGkGkLSGkfxLSGkxuLSLSmbGkLSFpcLLStTGkGkGktXLSGkGkLSUwTlLSGkLSefFXpiLSIxBFIxLSlHFXFXLSGknbNhLSGknVGkGkGkGkfxGkGkGkLSLSwC
 wCLSGkkDOsLSLSLSpKfxLSpKGkLSmbmbZELSJByzLSOoGkGkGktXLSGkGkLSTlkKLSGkLSefFXIWLSIxIxIxLSNPPPFXLSGknbGkLSGkYGLSLSyyLSLSLSGkGkLSLSwC
-wCLSGkkDLSGkGkLSGkGkLSGkxuLSmbGkUZLSoFMVLSiTGkKDGkBwLSWvuULSTlmmLSGkLSeYWCGyLSLtxHLtLShuFXruLSJfnbAILSGkfxLSPrDBsJGYLSGkGkLSLSwC
-wCLSGkkDLSxbGkLSGkUZLSGkxuLSmbGkLSLSoFoFLSsuGkGkGktXLSyyyyLSoFxALSGkLSuBLSLSuBUQoUoUuBLSLSuBLSyHGkJlLSGkGkLSKgyTozUSLSzQGkLSLSwC
-wCLSGkLpLSGkxbLSfxDCLSGkGkLSGkGkLSLSfWBXLSvFCtIOGhMUtjndnDLShExALSGkLStXtXtXNlbSbSbSNltXtXtXLSnbGkGkaIGkGkLSDBALTHxdLSGkGkLSLSwC
+wCLSGkkDLSGkGkLSGkGkLSGkxuLSmbGkUZLSsMMVLSiTGkKDGkBwLSWvuULSTlmmLSTLLSeYWCVSLSIoOiIoLSNPFXruLSJfnbAILSGkfxLSPrDBsJGYLSGkGkLSLSwC
+wCLSGkkDLSxbGkLSGkUZLSGkxuLSmbGkLSLSoFoFLSsuGkGkGktXLSyyyyLSoFxALSGkLSuBLSLSuBUQoUoUuBLSLSuBLSyHGkJlLSGkGkLSKgyTozUSLScQGkLSLSwC
+wCLSGkLpLSGkxbLSPWDCLSGkGkLSGkGkLSLSvGBXLSvFCtIOGhMUtjndnDLShExALSGkLStXtXtXNlbSbSbSNltXtXtXLSnbGkGkaIGkGkLSDBALTHxdLSGkGkLSLSwC
 wCLSGkLpLSGkxbLSGkGkLSxuxuLSmbGkLSLSaFxALSLSLSLSLSLSLSLSLSLSoFDdLSGkHRtXtXnbGkGkGkGkHGnVtXtXLSnbGkGkLSGkGkLSLSLSLSLSLSGkGkLSLSwC
-wCLSGkkDLSBQxbLSxRdxaIoZGkLSGkGkLSLSTVxAIuhEoFYRmmEMoXgmmFoFSgtJLSGkLSHEGkGkuBhhOiGkuBGkGkAGLSnbGkGkaIGknVGkGkGkGkGkGkGkGkLSLSwC
-wCLSGkkDLSdNGkaIxRUZLSGkQoLSGkmvLSLSSgnfTltJyVtJTlSvMoxAwYxAtJWKLShtLSGkfxnbzeGkGkGkzeGkGkGkLSnbfxGkLSGkGkfxGkGkGkfxGktuGkLSLSwC
-wCLSOikDLSLSLSLSUZUZLSGkVbLSGksVLSLSUZGkLSLSLSLSLSLSLSLSLSLSkjLSLSLSLSGktXGkjeGkZdGkjeGktXGkLSUZGkGkLSLSLSLSLSLSLSRgLSLSLSLSLSwC
+wCLSGkkDLSBQxbLSfWdxaIoZGkLSGkGkLSLSTVxAIuhEoFYRmmEMoXgmmFoFSgtJLSGkLSHEGkGkuBhhxHGkuBGkGkAGLSnbGkGkaIGknVGkGkGkGkGkGkGkGkLSLSwC
+wCLSGkkDLSdNGkaIxRUZLSGkQoLSGkmvLSLSSgnfTltJyVtJTlApMoclwYxAtJWKLShtLSGkfxnbzeGkGkGkzeGkGkGkLSnbfxGkLSGkGkfxGkGkGkfxGktuGkLSLSwC
+wCLSxHkDLSLSLSLSUZYMLSGkVbLSGksVLSLSUZGkLSLSLSLSLSLSLSLSLSLSkjLSLSLSLSGktXGkjeGkzQGkjeGktXGkLSUZGkGkLSLSLSLSLSLSLSRgLSLSLSLSLSwC
 wCLSGkkDOsLSLSLSUZGkLSLSaILSLSaILSLSDoUZLSGZLSLSLSLSLSLSssYwiDMSiDuKLSGktXofxDbSbSJqxDGktXGkLSUZGknbGkpzDqGkGkGkGkGkIGxbxbLSLSwC
-wCLSMEkDHdsUCyLSUZUZUZUZUZGkUZUZUZDoUZUZLSoULSNTJiQtQtLSJTiDiDiDiDkFLSGkWQGkQLQtbUQtQLGktXGkLSUZGkUZnbnbGknbnbnbrhMyGZSOnQLSLSwC
-wCLSGkeDLSLSLSLSUZDoGkUZXxUZUZUZMvGkUZUZLSGZLSQtGeGeQtLSyIqnvpUumRqvLSGkXbGkxDQtyjQtxDGktXGkLSUZbPUZUZGkGkGkGkGkoUxboUCTTCLSLSwC
+wCLSMEkDHdsUCyLSUZUZUZUZUZGkYMUZUZDoYMUZLSoULSNTJiQtQtLSJTiDiDiDiDkFLSGkWQGkQLQtbUQtQLGktXGkLSUZGkUZnbnbGknbnbnbrhMyGZSOnQLSLSwC
+wCLSGkeDLSLSLSLSUZEgGkUZXxUZUZYMMvGkUZYMLSGZLSQtGeGeQtLSyIqnvpUumRqvLSGkNyGkxDQtyjQtxDGktXGkLSUZbPUZUZGkGkGkGkGkoUxboUCTTCLSLSwC
 wCLSGkkDLSRpxxLSUZGkLSLSLSLSLSLSLSLSLSaILSLSLSbSkobEbSLSLSkzkzLSkzLSLSGkQuGkADwhQLwhADGktXGkLSLSLSLSLSLSLSLSLSLSLSLSLSLSaILSLSwC
-wCLSGkkDaICJCJaIUZGkfxUZxRUZGkfxmAGkdEGkGkGkUZGkGkGknVGkRdGkdEFxGkRVRdGkntGkGkaAGkCeGkGktXlJfxJbuUHPGkGkOaBWGkWtpHGktquUZZGkLSwC
-wCLSGkkDLSLSLSLSByUZGkGkUZGkGkUZaOGkUZGkGkklRJGkNVGkUZGkqMiXQdVfbSVftXKKtXtXtXQtbSQttXtXtXtXtXfyGkpHaYuUHGoLpHuUGkfxtquUfgGkLSwC
+wCLSGkkDaICJCJaIUZGkfxUZxRYMGkfxmAkTdEGkGkkTUZGkGkGknVGkRdGkdEFxGkRVRdGkntGkGkaAGkCeGkGktXaafxJbuUHPGkGkOaBWGkWtpHGktquUZZGkLSwC
+wCLSGkkDLSLSLSLSByYMGkGkUZGkGkUZaOkTUZGkGkklRJGkDPGkUZGkqMiXQdVfbSVftXKKtXtXtXQtbSQttXtXtXtXtXfyGkpHaYuUHGoLpHuUGkfxtquUfgGkLSwC
 wCLSGkNznXkCkCLSLSLSGkGkZiaILSGkGkLSLSLSLSJbQwLSLSLSOjQwkzkzkzXgoBQtLSLSLSLSLSQtoBLSLSLSLSUBeHLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSwC
-wCLSGkLpLSStxbCJkCLSUZGkaIGZaIGkGkLSGkGkLSgbjTLSGZLSkDkOLSZuNBLSXqQtLSWLbTDtLSQtdFLSLQLQLSGkGkLSLSLStxLSLStxLSLSpzLSLSpzLSLSLSwC
+wCLSGkLpLSStxbCJkCLSUZGkaIGZaIGkGkLSGkGkLSgbjTLSGZLSkDkOLSZuNBLSXqQtLSWLbTDtLSQtWpLSLQLQLSGkGkLSLSLStxLSLStxLSLSpzLSLSpzLSLSLSwC
 wCLSqJkDLSCDxbyCCJaIUZUZLSoULSGkGkLSGkGkLSgbjTLSoULSvEUZLSxbhDLSjEQtLSkmWBgdLSQtUzLSYgAiLSGkGkLSGkGkGkGkDcGkGkGkGkGkQbGkGkpzLSwC
-wCLSGkkDLSokxbCJCJLSUZUZLSxbLSPkIhLSBtGkLSjRgbLSxbLSkDUJLSxbhDLSmfQtLSyqdPJyLSQtLKLSbWPTLSyJyvkzGkOiGkGkGkQbGkGkGkGkfxGkZdLSLSwC
-wCLSGkkDLSKvxbzSCJLSDodEaIxbaIoAGkLSDqGkLSgbEELSxbLSkDGkLSkCQZLSUzQtLSfyHmfyLSQtUzLSGkGkLSLnGkLSGkGkLSLSGkfxLSLSLSLSLSLnGkLSLSwC
-wCLSnVRdOskCCJCJkCLSwxUZLSoULSGkGkLSZRGkLSwlgbLSQCLSkDGkLShDalLSUzbStlQtvGQtdPMsUzaIGkGkLSGkApLSGkGkLSLSGkuULSLShDhDLSGkGkpzLSwC
-wCLSGkRdLSLSLSLSLSLSclUZaIGZaIdexsLSGkGkLSwlpYLSxbLSkDnVlISWWZlIUzbSaVYObSQttlbSUzaIGkGkLSGkGkLSuUGkLSLSpKGkgKgKvbhDLSGksALSLSwC
-wCLSGkGkGkGkLSLSLSLSLSLSLSLSLSLSLSLSLSaILSodCkLSxbLSkDGkLSQZxbLSUzQtLSfyHmfyLSzXEglIzRVHLSGkGkkzpKofLSLSGkJhhDhDygjALSGkGkLSLSwC
-wCLSLSMEDnGkGkLSLSLSLSCNtGcpdDemwtGumViDPHQJPHLSoULSkDGkLSSWCJLSUzPWLStKyqgdLSQtEgLSLSLSLSpzGkLSGkGkLSLSGkGkGkCJoTFiLSGkGkgtLSwC
-wCLSLSLSxuGkRdRdLSLSLSgqiDiDiDFuiDQJIBiDiDDeiDLSGZLSkDGkLSSWkCLSEgQtLSJkZOetLSQtUzaIGZGZLSgfGkLSGkGkLSLSLSLSLSLSLSLSLSGkQbLSLSwC
-wCLSLSLSLSxuRdRdGkLSLSuEiDcpweCjzVGuTBuCPHiDTBLSGZLSkDUJLSxbnyLSUzQtLSLSLSLSLSQtoBLSaIaILSGkGkLSOiGkGkCJCJLYsCatDrcqLSGkGkLSLSwC
+wCLSGkkDLSokxbCJCJLSUZUZLSxbLSPkIhLSBtGkLSjRgbLSxbLSkDUJLSxbhDLSmfQtLSyqdPJyLSQtLKLSbWPTLSyJyvkzGkxHGkGkGkQbGkGkGkGkfxGkzQLSLSwC
+wCLSGkkDLSKvxbzSCJLSDodEaIxbaInUGkLSDqGkLSGHEELSxbLSkDGkLSkCQZLSUzQtLSfyHmfyLSQtUzLSGkGkLSLnGkLSGkGkLSLSGkfxLSLSLSLSLSLnGkLSLSwC
+wCLSnVRdOskCCJCJkCLSwxUZLSoULSGkGkLSZRGkLSwlgbLSQCLSkDGkLShDalLSUzbStlQtLWQtdPMsUzaIGkGkLSGktnLSGkGkLSLSGkuULSLShDhDLSGkGkpzLSwC
+wCLSGkRdLSLSLSLSLSLSLYUZaIGZaIdexsLSGkGkLSwlpYLSxbLSkDnVlISWWZlIUzbSaVYObSQttlbSUzaIGkGkLSGkGkLSuUGkLSLSpKGkgKgKvbhDLSGksALSLSwC
+wCLSGkGkGkGkLSLSLSLSLSLSLSLSLSLSLSLSLSaILSodCkLSxbLSkDGkLSQZxbLSUzQtLSfyHmfyLSzXPblIzRVHLSGkGkkzpKofLSLSGkJhhDhDygjALSGkGkLSLSwC
+wCLSLSMEDnGkGkLSLSLSLSCNtGcpdDemwtGumViDPHzTPHLSoULSkDGkLSSWCJLSUzNVLStKyqgdLSQtPbLSLSLSLSpzGkLSGkGkLSLSGkGkGkCJoTFiLSGkGkgtLSwC
+wCLSLSLSxuGkRdRdLSLSLSgqiDiDiDFuiDzTIBiDiDDeiDLSGZLSkDGkLSSWkCLSPbQtLSJkZOetLSQtUzaIGZGZLSgfGkLSGkGkLSLSLSLSLSLSLSLSLSGkQbLSLSwC
+wCLSLSLSLSxuRdRdGkLSLSuEiDcpweCjzVGuTBuCPHiDTBLSGZLSkDUJLSxbnyLSUzQtLSLSLSLSLSQtoBLSaIaILSGkGkLSxHGkGkCJCJSvsCatDrcqLSGkGkLSLSwC
 wCLSLSLSLSLSxuGkGkGkLSLSLSLSLSLSOsOsLSLSLSLSLSLSLSLSkDGkLSxTxbLSUzQtdPdPdPuSheQtUzKHjIzjLSpKGkkzGkGkGkuUGkCJCJCJdmUAslGkGkpzLSwC
-wCLSLSLSLSLSLSxuGkGkGkOiGkGkGkGkGkGkGkGkGkGkDnGkRdGkuNRdLSkCxbLSRoQtbSdPbqdPbStnUcLSRtClLSnVGkLSLSLSLSLSLSLSLSLSLSLSLSLnGkLSLSwC
-wCZjLSPQLSLSLSLSLSMERdGkGkGkGkiFRdGkGkOinVGkGkGkGkGkGkGkLSQZxbLSLSaIaILSLSLSLSaILSLSnMCJlIGkGkGkosGkGkODGkGkQbGkGkGkGkGkofLSLSwC
+wCLSLSLSLSLSLSxuGkGkGkxHGkGkGkGkGkGkGkGkGkGkDnGkRdGkuNRdLSkCxbLSRoQtbSdPbqdPbSdFUcLSRtClLSnVGkLSLSLSLSLSLSLSLSLSLSLSLSLnGkLSLSwC
+wCZjLSXbLSLSLSLSLSMERdGkGkGkGkiFRdGkGkxHnVGkGkGkGkGkGkGkLSQZxbLSLSaIaILSLSLSLSaILSLSnMCJlIGkGkGkosGkGkODGkGkQbGkGkGkGkGkofLSLSwC
 wCLSLSLSLSLSLSLSLSLSLSqhLSLStxLSLStxLSLSXZLSLSqRLSLSJgLSLSCJxbkChDkCxbSWxbFCQZSWcvClClxbLSkCGkGkGkGkqJODLnGkGkGkLnGkGkGkGkpzLSwC
-wCYMLSnULSVpLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSpNkCxbxbSWxbkCxbkCkChDhDiCYSSWLSLSpzkzLStxLSLSpzLSLSpzkzLSXZLSLSLSLSwC
+wClJLSoALSVpLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSpNkCxbxbSWxbkCxbkCkChDhDiChuSWLSLSpzkzLStxLSLSpzLSLSpzkzLSXZLSLSLSLSwC
 wCLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSLSwC
 wCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwCwC
 "}
